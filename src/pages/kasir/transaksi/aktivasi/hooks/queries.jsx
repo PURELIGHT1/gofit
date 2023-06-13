@@ -6,7 +6,7 @@ import Swal from "sweetalert2"
 
 const queryKeys = {
     all: ['aktivasis'],
-    allMembers: ['members'],
+    allMembers: ['member'],
     detail: (id) => ['aktivasis', id],
 };
 
