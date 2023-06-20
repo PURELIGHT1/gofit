@@ -100,8 +100,6 @@ const RouteManager = () => {
                                     element={<TambahEditInstruktur isEdit />}
                                 />
                             </Route>
-
-
                         </Route>
                     </Route>
                 </>
